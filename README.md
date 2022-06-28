@@ -1,5 +1,5 @@
 # middleman-udp-proxy
-Basic Middleman UDP Proxy for Server&lt;->Client communication
+Simple C# Middleman UDP Proxy for Server&lt;->Client communication
 
 LISTEN_PORT is the PORT you want the Proxy to listen to
 
