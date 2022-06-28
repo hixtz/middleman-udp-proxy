@@ -1,8 +1,0 @@
-D:\WebDevelopment\middlemanproxy\bin\Debug\middleman-udp-proxy.exe.config
-D:\WebDevelopment\middlemanproxy\bin\Debug\middleman-udp-proxy.exe
-D:\WebDevelopment\middlemanproxy\bin\Debug\middleman-udp-proxy.pdb
-D:\WebDevelopment\middlemanproxy\obj\Debug\middleman-udp-proxy.csproj.AssemblyReference.cache
-D:\WebDevelopment\middlemanproxy\obj\Debug\middleman-udp-proxy.csproj.SuggestedBindingRedirects.cache
-D:\WebDevelopment\middlemanproxy\obj\Debug\middleman-udp-proxy.csproj.CoreCompileInputs.cache
-D:\WebDevelopment\middlemanproxy\obj\Debug\middleman-udp-proxy.exe
-D:\WebDevelopment\middlemanproxy\obj\Debug\middleman-udp-proxy.pdb
